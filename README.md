@@ -1,0 +1,2 @@
+# docker-minio
+Minio container
